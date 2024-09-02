@@ -1,5 +1,7 @@
 # ventAway.github.io
 
+<div style="background-image:url(![image](https://github.com/user-attachments/assets/1f06ad15-02bf-4d6b-b6a7-afd4cb6bffe2)
+);width:300px;height:200px;">HTML background image example</div>
 
 
 <p><a style="text-decoration:none;" >Hows it going</a></p>
