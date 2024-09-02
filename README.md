@@ -8,4 +8,4 @@ Enter some text...
 </textarea>
 <br />
 <input type="submit" />
-</form>
+
