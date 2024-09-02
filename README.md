@@ -4,7 +4,7 @@
 <p><a style="text-decoration:none;" >enjoy writing your frustrations in the box below</a></p>
 
 <textarea name="myTextBox" cols="50" rows="5">
-Enter some text...
+
 </textarea>
 <br />
 <input type="submit" />
