@@ -1,1 +1,5 @@
 # ventAway.github.io
+<p><a style="text-decoration:none;" href="//www.html.am">Hows it going</a></p>
+<p style="text-decoration:underline;">here to vent?</p>
+<p style="text-decoration:line-through;">Text with a line through the middle</p>
+<p style="text-decoration:overline;">enjoy venting in the text box</p>
